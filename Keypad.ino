@@ -24,5 +24,5 @@ void loop(){
   
   if (customKey){
     Serial.println(customKey);
-  }
+  } 
 }
